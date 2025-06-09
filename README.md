@@ -165,3 +165,9 @@ npm start
 *Built in 24 h at ********HUJI Hackathon 2025******** (May 29–30, Jerusalem).*
 
 ---
+
+## Acknowledgments
+
+Special thanks to [Professor Michael Rosenberg, MD]([https://en.earth.huji.ac.il/people/itzhak-lior?ref_tid=1507](https://med.umn.edu/bio/michael-rosenberg)) for his expert guidance and support throughout this project.
+
+---
