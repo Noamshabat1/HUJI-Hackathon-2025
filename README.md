@@ -53,21 +53,20 @@ MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at
 
 ## 📸 Screenshots
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="docs/images/landing.jpg" alt="Landing Page" width="300" />
-    <figcaption><em>Landing Page</em></figcaption>
-  </figure>
-  <figure style="margin: 0; text-align: center;">
-    <img src="docs/images/doctor_dashboard.jpg" alt="Doctor Dashboard" width="300" />
-    <figcaption><em>Doctor Dashboard</em></figcaption>
-  </figure>
-  <figure style="margin: 0; text-align: center;">
-    <img src="docs/images/login.jpg" alt="Login Screen" width="300" />
-    <figcaption><em>Login Screen</em></figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="docs/images/landing.jpg" alt="Landing Page" width="600" />
+  <br><sub><strong>Landing Page</strong></sub>
+</p>
 
+<p align="center">
+  <img src="docs/images/doctor_dashboard.jpg" alt="Doctor Dashboard" width="600" />
+  <br><sub><strong>Doctor Dashboard</strong></sub>
+</p>
+
+<p align="center">
+  <img src="docs/images/login.jpg" alt="Login Screen" width="600" />
+  <br><sub><strong>Login Screen</strong></sub>
+</p>
 
 
 ## 🎥 Demo Video
