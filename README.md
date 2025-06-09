@@ -168,6 +168,6 @@ npm start
 
 ## Acknowledgments
 
-Special thanks to [Professor Michael Rosenberg, MD]([https://en.earth.huji.ac.il/people/itzhak-lior?ref_tid=1507](https://med.umn.edu/bio/michael-rosenberg)) for his expert guidance and support throughout this project.
+Special thanks to [Professor Michael Rosenberg, MD](https://med.umn.edu/bio/michael-rosenberg) for his expert guidance and support throughout this project.
 
 ---
