@@ -158,8 +158,8 @@ npm start
 | Name           | Role                |
 | -------------- | ------------------- |
 | Shay Morad | Team Lead & Backend     |
-| Noam Shabat    | Full-Stack & DevOps & UX/UI | 
-| Nitzan Ventura     | Full-Stack & UX/UI    |
+| Noam Shabat    | Backend & Full-Stack & DevOps & UX/UI | 
+| Nitzan Ventura     |   UX/UI    |
 | Samuel Hayat  | Frontend    |
 
 *Built in 24 h at ********HUJI Hackathon 2025******** (May 29–30, Jerusalem).*
