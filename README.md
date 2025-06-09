@@ -1,6 +1,6 @@
 # MedAssist AI 
 
-> AI that sees around the corner—anticipating discharge roadblocks, empowering teams with instant, lifesaving insights
+> AI that sees around the corner—anticipating discharge roadblocks, empowering teams with instant, lifesaving insights.Harnessing real-time data streams and predictive modeling, MedAssist AI transforms hectic discharge workflows into seamless, patient-centered journeys—ensuring no critical detail is missed and every decision is driven by actionable intelligence.
 
 ---
 
