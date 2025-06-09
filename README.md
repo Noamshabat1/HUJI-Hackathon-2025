@@ -53,7 +53,7 @@ MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at
 
 ## 📸 Screenshots
 
-<p align="center">
+<p align="left">
   <sub><strong>Landing Page</strong></sub><br>
   <img src="docs/images/landing.jpg" alt="Landing Page" width="600" />
 </p>
