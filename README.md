@@ -1,6 +1,6 @@
 # MedAssist AI 
 
-> Revolutionizing hospital discharge decisions with predictive intelligence and actionable insights
+> AI that sees around the corner—anticipating discharge roadblocks, empowering teams with instant, lifesaving insights
 
 ---
 
