@@ -37,18 +37,17 @@ MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at
 ---
 
 ## 📐 Architecture
-| Layer                          | Technology & Role                                                                 |
-| -------------------------------- | ------------------------------------------------------------------------------- |
-| Backend API   | Python 3.12, FastAPI, Pydantic v2, Uvicorn; /hospital, /patients, /chat and more endpoints       |
-| Logic Layer | OO Entities       |
-| Data Layer         | JSON seed files (in-memory), SQLite (demo), with save-on-shutdown for persistence               |
-| Frontend        | React, Tailwind CSS; <PatientsTable>, <PatientMedicalSummary>, color-coded rows           |
-| AI/NLP      | XGBoost for risk; Google Gemini for chat summarization & blocker NLP      |
-| Infra & CI         | Docker Compose; GitHub Actions CI/CD; Swagger UI for API docs          |
 
+| Layer             | Technologies & Responsibilities                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| **Backend API**   | Python 3.12, FastAPI, Pydantic v2, Uvicorn; REST endpoints (`/hospital`, `/patients`, `/chat`)    |
+| **Business Logic**| Domain-driven OO entities (`Patient`, `Ward`, `VitalSign`) enforcing validation and workflows     |
+| **Data Layer**    | In-memory JSON store (auto-persist on shutdown) and SQLite demo DB; interchangeable via adapters  |
+| **Frontend**      | React, TypeScript, Tailwind CSS; reusable components (`<PatientsTable>`, `<PatientMedicalSummary>`)|
+| **AI / NLP**      | XGBoost discharge-risk model; Google Gemini for chat and note analysis; modular LLM adapters      |
+| **Infra & CI/CD** | Docker Compose; GitHub Actions pipelines; Swagger & Redoc for API documentation                  |
 
-Extensibility: Modular adapters allow swapping LLMs, ML models, or database backends independently.
-
+**Extensible adapters** enable swapping ML models, LLM providers, or database backends without impacting core logic.
 --- 
 
 ## 📸 Screenshots
