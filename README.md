@@ -1,24 +1,20 @@
 # MedAssist AI 
 
-> AI that sees around the corner—anticipating discharge roadblocks, empowering teams with instant, lifesaving insights.Harnessing real-time data streams and predictive modeling, MedAssist AI transforms hectic discharge workflows into seamless, patient-centered journeys—ensuring no critical detail is missed and every decision is driven by actionable intelligence.
+> AI-driven hospital assistant: anticipate clinical needs, optimize workflows, and deliver real-time patient insights across the care continuum.
+
+> Harnessing continuous data streams and predictive modeling, MedAssist AI transforms hospital operations—from live patient monitoring to discharge planning—into seamless, patient-centered workflows, ensuring no detail is missed and every decision is powered by actionable intelligence.
 
 ---
 
 ## 🔍 Overview
 
-MedAssist AI is a comprehensive hospital coordination platform built in 24 hours at the HUJI Hackathon 2025. Combining a Python FastAPI backend, a React front-end dashboard, and Google’s Gemini AI models, MedAssist AI:
+MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at HUJI Hackathon 2025, combining a Python FastAPI backend, a React dashboard, and Google’s Gemini AI:
 
-* Forecasts discharge readiness hours in advance using heuristic risk scores.
-
-* Identifies clinical & operational blockers (labs, consults, transport) in real time via rules-based and NLP-powered detection.
-
-* Routes actionable tasks to the right roles (nurses, PTs, social workers, etc.).
-
-* Supports interactive AI chat for on-demand patient summaries, vitals, and next steps.
-
-Designed for capacity‑strained hospitals, MedAssist AI reclaims lost bed‑days, reduces infection risk, and boosts patient satisfaction—seamlessly integrating on top of existing EMRs.
-
-
+- **Forecasts discharge readiness** hours in advance using adaptive, AI-driven risk scores.  
+- **Identifies real-time discharge blockers**—from lab bottlenecks to consult backlogs and transport delays—using a blend of rule-based logic and NLP.  
+- **Automates care-team workflows** by routing nursing alerts, PT orders, and social-work referrals directly to the right staff.  
+- **Empowers clinicians with an interactive AI assistant** for instant patient summaries, vital-sign trend analysis, and data-driven next steps.  
+- **Seamlessly integrates with existing EMRs**, requiring minimal configuration to enhance current workflows without disruption.  
 
 ---
 
