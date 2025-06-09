@@ -10,11 +10,14 @@
 
 MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at HUJI Hackathon 2025, combining a Python FastAPI backend, a React dashboard, and Google’s Gemini AI:
 
-- **Forecasts discharge readiness** hours in advance using adaptive, AI-driven risk scores.  
-- **Identifies real-time discharge blockers**—from lab bottlenecks to consult backlogs and transport delays—using a blend of rule-based logic and NLP.  
-- **Automates care-team workflows** by routing nursing alerts, PT orders, and social-work referrals directly to the right staff.  
-- **Empowers clinicians with an interactive AI assistant** for instant patient summaries, vital-sign trend analysis, and data-driven next steps.  
-- **Seamlessly integrates with existing EMRs**, requiring minimal configuration to enhance current workflows without disruption.  
+- **Generates instant patient summaries**: combines historical records and live vitals into a unified, actionable snapshot.  
+- **Forecasts discharge readiness**: predicts patient readiness hours in advance with adaptive, AI-driven risk scores.  
+- **Flags critical condition changes**: monitors vitals and clinical data in real time, alerting care teams to emerging issues via rule-based logic and NLP.  
+- **Identifies operational blockers**: detects bottlenecks—from lab delays to consult backlogs and transport issues—and suggests targeted resolutions.  
+- **Suggests data-driven treatment paths**: leverages predictive models to recommend next steps tailored to each patient’s profile.  
+- **Optimizes resource allocation**: automates routing of nursing alerts, PT orders, and social work referrals to the right team members.  
+- **Enhances communication**: interactive AI assistant supports on-demand dialogues for patient summaries, vital-trend analysis, and care guidance.  
+- **Seamless EMR integration**: plugs into existing hospital systems with minimal configuration, extending workflows without disruption.  
 
 ---
 
