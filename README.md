@@ -23,17 +23,19 @@ MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at
 
 ## 🌟 Key Features
 
-| Feature                          | Benefit                                                                         |
-| -------------------------------- | ------------------------------------------------------------------------------- |
-| 🚑 **Real-time Bed Dashboard**   | Live EMR sync of occupancy, predicted discharges & length-of-stay metrics       |
-| 🤖 **Discharge-Readiness Score** | Model trained based on hospital configurations and set metrics limitations      |
-| 📝 **Blocker Detection**         | Combines rules (orders/labs) + NLP on notes to surface open tasks               |
-| 📬 **Smart Task Routing**        | Automates assignment of blockers to nurses, PTs, social workers, etc.           |
-| 💬 **Self-Service Chatbot**      | /chat endpoint powered by Gemini: ask for vitals, status, clinical summary and next steps      |
-| 🔒 **Privacy by Design**         | All PHI de-identified on‑prem; zero identifiers leave hospital network          |
-| 🔌 **Plugin-Friendly**           | Swap ML models or EMR connectors                                                |
+| Feature                          | Benefit                                                                                                           |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 🚑 **Live Bed Status Dashboard** | Real-time EMR sync showing current occupancy, predicted discharges, and LOS trends for proactive capacity management |
+| 🔢 **Discharge-Readiness Score** | AI-driven risk score calibrated to hospital-specific metrics forecasts when patients are ready to go, reducing bottlenecks |
+| 🛑 **Blocker Detection**         | Hybrid rule-based and NLP analysis uncovers pending orders, lab delays, consult backlogs, and transport issues instantly |
+| 📤 **Smart Task Routing**        | Automatically assigns and notifies nurses, PTs, social workers, and other roles to resolve each blocker seamlessly |
+| 💬 **Interactive AI Assistant**  | Chat interface powered by Gemini for instant access to patient summaries, vital-trend analysis, and personalized care recommendations |
+| 🔒 **Privacy by Design**         | On-premise PHI de-identification with zero outbound identifiers ensures compliance and data security                 |
+| 🔌 **Modular Integrations**      | Easily swap ML models, customize workflows, or connect new EMR systems via plugin-friendly architecture             |
+| 📈 **Operational Insights**      | Dashboard analytics surface KPIs—bed turnover, average LOS, and resource utilization—for continuous performance improvement |
 
 ---
+
 ## 📐 Architecture
 | Layer                          | Technology & Role                                                                 |
 | -------------------------------- | ------------------------------------------------------------------------------- |
