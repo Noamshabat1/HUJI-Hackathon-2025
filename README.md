@@ -48,6 +48,7 @@ MedAssist AI is a comprehensive hospital assistant platform built in 24 hours at
 | **Infra & CI/CD** | Docker Compose; GitHub Actions pipelines; Swagger & Redoc for API documentation                  |
 
 **Extensible adapters** enable swapping ML models, LLM providers, or database backends without impacting core logic.
+
 --- 
 
 ## 📸 Screenshots
